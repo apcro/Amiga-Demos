@@ -7,6 +7,7 @@ There is also the source to an un-released demo called 'Black Moon'.
 Unfortunately the original includes and binary files have been lost.
 
 ## More information
+* [Defy 4 Teaser](http://www.tsumea.com/ozscene/Cydonia/Defy4Teaser.zip)
 * [Defy 4](http://www.pouet.net/prod.php?which=14396)
 * [Defy 5](http://www.pouet.net/prod.php?which=14397)
 * [Defy 6](http://www.pouet.net/prod.php?which=14398)
