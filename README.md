@@ -12,4 +12,4 @@ Unfortunately the original includes and binary files have been lost.
 * [Defy 5](http://www.pouet.net/prod.php?which=14397)
 * [Defy 6](http://www.pouet.net/prod.php?which=14398)
 
-* [ScrapBook](http://www.pouet.net/prod.php?which=48966]
+* [ScrapBook](http://www.pouet.net/prod.php?which=48966)
